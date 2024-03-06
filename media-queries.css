@@ -1,0 +1,53 @@
+@media screen and (max-width:991px) {
+    .nav-toggle{
+        display: block;
+        margin-right: 20px;
+    }
+
+    .navbar-links{
+        display: none;
+    }
+
+    .image-1{
+        width:40%;
+        margin-block:0px;
+    }
+
+    .footer-1{
+        margin-top: 20px;
+    }
+
+    .section6-heading{
+        margin-bottom: 20px;
+    }
+
+    .images{
+        gap: 20px;
+    }
+
+
+    h2{
+        font-size: 1.4rem;
+    }
+
+    /* h3{
+        font-size: 1.3rem;
+    } */
+
+    p{
+        font-size: 1.5rem;
+    }
+
+    span{
+        font-size: 20px;
+    }
+
+    .primary-button{
+        padding: 15px 30px;
+    }
+
+    .section3-right{
+        width: 53%;
+    }
+    
+}
